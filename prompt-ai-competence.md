@@ -152,33 +152,27 @@ You have received:
   Engaging with AI: Engaging with AI in daily life involves using AI as a tool to access new content, information, or recommendations. These situations require learners to first recognize AI’s presence, then evaluate the  accuracy and relevance of AI outputs. Learners must develop a fundamental understanding of AI’s technical foundations in order to critically analyze its capabilities and limitations.
 
   # Competence
-  Explain how AI could be used to amplify societal biases.
+  Describe how AI systems consume energy and natural resources.
     
-  Learners investigate how AI systems, such as facial recognition or hiring algorithms, reflect human decisions and data, and identify ways that bias in data or design can lead to unfair outcomes for different groups of people.
+  LLearners explore the environmental impact of AI, including its energy and data infrastructure, and consider how responsible design and use can support sustainability.
 
 
   ## **Knowledge**
 
-  - K2.1: Building and maintaining AI systems relies on humans to design algorithms, collect and label data, and moderate harmful content. These systems reflect human choices, assumptions, and labor practices, shaped by unequal global conditions.
-  - K2.5: Bias inherently exists in AI systems, which can also reflect societal biases embedded in its training data or algorithm design. Humans can perpetuate or mitigate harmful biases in AI systems during the design, development, or testing process.
-
+  - K4.2: AI requires vast amounts of computing power and data, which consumes energy, thus demanding limited natural resources and increasing carbon emissions. AI’s long-term sustainability impact, both positive and negative, largely depends on how it is implemented and utilized.
+  
 
   ## **Skills**
 
-  - S1: *Critical Thinking:*: Evaluate AI-generated content for accuracy, fairness, and bias to make informed and ethical decisions. Practicing critical thinking in an AI context involves verifying whether the information provided by an AI system is accurate, relevant, and fair. Because AI systems can generate convincing but incorrect or biased content, learners must actively work to identify potential misinformation and weigh outputs with other sources of information. These actions result in a greater awareness of AI’s impact on the broader information system. This process uncovers hidden biases or gaps and ensures AI outputs support ethical decision-making. By developing these skills, learners exercise media literacy, digital literacy, and digital citizenship, while becoming more discerning users of AI
-  - S2: *Self and Social Awareness:* Recognize how AI influences personal choices, relationships, and communities, and reflect on its broader societal and environmental impact.
-  - S3: *Problem Solving:* Determine when and how to use AI for a task by assessing its capabilities, risks, and ethical implications. Using AI to address a problem begins with thoughtful reflection on the task at hand and includes thorough consideration of whether AI’s capabilities meet the task’s technical and ethical requirements. To do this, learners might test specific AI systems for reliability and potential to replicate harmful bias. Learners problem-solve with AI when they ask themselves how AI systems might add value, where human judgment should come into play, and when to avoid AI use altogether.
+  - S1: *Self and Social Awareness:* Recognize how Al influences personal choices, relationships, and communities, and reflect on its broader societal and environmental impact. Self and social awareness are vital when interacting with Al. This skill begins with recognizing Al's presence in daily life and understanding how it influences decisions in both the digital and physical worlds. This extends beyond mere identification and applies to thoughtful consideration of Al's broader effects on individuals, communities, and the environment. Learners might also engage metacognitively with Al's effects on their own behaviors, thoughts, and learning processes. By recognizing Al's influence, learners are better equipped to evaluate Al-generated content and monitor how these technologies influence their thoughts and behaviors over time.
+ 
+   ## **Attitudes**
 
-
-
-  ## **Attitudes**
-
- - A1: *Empathetic:* Learners thoughtfully examine how AI impacts individuals, communities, and the environment. They weigh both the benefits and potential risks of using AI, understanding that its impact can vary for different groups of people.
- - A2: *Responsible:* Learners think carefully about how they use AI and are accountable of their choices. They consider both the intended and the potential unintended effects of their actions, and are committed to preventing harm to others. They believe everyone has the right to understand how AI affects them and to make informed decisions about its use.
+  - A1: *Responsible:* Learners think carefully about how they use AI and are accountable of their choices. They consider both the intended and the potential unintended effects of their actions, and are committed to preventing harm to others. They believe everyone has the right to understand how AI affects them and to make informed decisions about its use.
 
 
   ## **Education Scenario**
-  Split several characters from different stories into categories, then discuss how using rules or data to group people can be useful or treat some people unfairly. another option Examine how an AI system was trained to recognize faces, evaluate potential sources of bias in the training data, and suggest steps developers could take to improve fairness.
+  Create an infographic illustrating AI’s environmental impacts, including the electricity it consumes, the devices it operates on, and the materials required to manufacture those devices. another option Compare AI’s environmental costs with efforts to reduce them, then debate whether using AI in specific scenarios is environmentally responsible.
 
 \=====
 
