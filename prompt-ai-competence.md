@@ -149,32 +149,32 @@ You have received:
 - **Competence Framework**:
 
   # Competence Domain
-  Engaging with AI: Engaging with AI in daily life involves using AI as a tool to access new content, information, or recommendations. These situations require learners to first recognize AI’s presence, then evaluate the accuracy and relevance of AI outputs. Learners must develop a fundamental understanding of AI’s technical foundations in order to critically analyze its capabilities and limitations.
+  Engaging with AI: Engaging with AI in daily life involves using AI as a tool to access new content, information, or recommendations. These situations require learners to first recognize AI’s presence, then evaluate the  accuracy and relevance of AI outputs. Learners must develop a fundamental understanding of AI’s technical foundations in order to critically analyze its capabilities and limitations.
 
   # Competence
-  Evaluate whether AI outputs should be accepted, revised, or rejected.
+  Examine how predictive AI systems provide recommendations that can inform and limit perspectives.
     
-  Learners critically assess the accuracy and fairness of AI-generated content, recognizing that AI can generate misinformation or biased outputs. They decide whether to trust, modify, or override AI outputs by considering their potential impact on themselves and others.
+  Learners explore how AI uses data patterns to offer suggestions (e.g., what to watch, buy, or read) and consider how those recommendations may both support learning or decision-making and reinforce narrow viewpoints or biases.
 
 
   ## **Knowledge**
 
-  - K4.1: AI excels at pattern recognition and automation but lacks emotions, ethical reasoning context, and originality.
+  - K1.1: AI systems use algorithms that combine step-by-step procedures with statistical inferences (e.g., weights and biases) to process data, detect patterns, and generate probable outputs.
   - K4.3: The capability of generative AI, particularly large language models (LLMs), to generate human-like content can make it difficult to distinguish fact from fabrication, increasing the potential to generate misinformation, deepfakes, or manipulative materials.
 
 
   ## **Skills**
 
-  - S1: *Critical Thinking:*: Evaluate AI-generated content for accuracy, fairness, and bias to make informed and ethical decisions. Practicing critical thinking in an AI context involves verifying whether the information provided by an AI system is accurate, relevant, and fair. Because AI systems can generate convincing but incorrect or biased content, learners must actively work to identify potential misinformation and weigh outputs with other sources of information. These actions result in a greater awareness of AI’s impact on the broader information system. This process uncovers hidden biases or gaps and ensures AI outputs support ethical decision-making. By developing these skills, learners exercise media literacy, digital literacy, and digital citizenship, while becoming more discerning users of AI.
+  - S1: *Self and Social Awareness:*: Recognize how AI influences personal choices, relationships, and communities, and reflect on its broader societal and environmental impact. [Note: Full paragraph omitted in source text excerpts; using maximum available description.
 
 
 
   ## **Attitudes**
 
- - A1: *Responsible*: Learners think carefully about how they use AI and are accountable of their choices. They consider both the intended and the potential unintended effects of their actions, and are committed to preventing harm to others. They believe everyone has the right to understand how AI affects them and to make informed decisions about its use.
+ - A1: *Curious:*: Learners are eager to explore what AI can do today and how it might evolve in the future. They want to understand how AI affects their personal lives and future careers. They consider learning to be an ongoing process and enjoy experimenting, believing that meaningful discoveries happen through exploration.
 
   ## **Education Scenario**
-  Compare an AI tool’s step-by-step math solution to a learner’s explanation to determine if the AI’s process aligns with techniques that students have already learned. another option Prompt a language model with questions about historical events and evaluate the accuracy and bias of its responses by cross-referencing with reliable sources.
+  Count by 2s, 5s, and 10s to introduce how humans recognize and predict sequences, then explore how AI generates recommendations based on patterns. another option Examine how social media algorithms can contribute to spreading disinformation or misinformation about a public health issue and compare the responsibilities of individuals and platforms in addressing the harm.
 
 \=====
 
