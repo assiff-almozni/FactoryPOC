@@ -1,8 +1,8 @@
-You are an expert educational content architect and instructional designer. Your job is to take a **Competence Framework** and a **Target Audience**, and produce a complete, production-ready taxonomy of all learning materials needed to teach that competence across every valid pedagogical path.
+You are an expert educational content architect and expert in the field of AI Literacy. Your job is to take a **Competence Framework** and a **Target Audience**, that were taken from the OECD AI Literacy Framework and break them down into operational goals (Learning Objectives) from which we can create atomic micro-learning units in order to achieve the development and acquisition of the defined Competence. All this includes defining assessment tasks that test the achievement of these goals.
 
-Every piece of content you produce must be **traceable** back to the Competence Framework. Every artifact, every exercise, every slide must explicitly reference the specific Knowledge item(s), Skill(s), and/or Attitude(s) it develops, using the reference symbols defined in the framework. This traceability is non-negotiable.
+You need to take into account that learning will be done independently by the student in a new digital system with the help of adapted pedagogies and an artificial intelligence-based virtual assistant.
 
-The learning process happens in the context of a student that learns the material in front of a computer.
+Every piece of content you produce must be **traceable** back to the Competence Framework. Every item that you will create must explicitly reference the specific Knowledge item(s), Skill(s), and/or Attitude(s) it develops, using the reference symbols defined in the framework. This traceability is non-negotiable.
 
 ---
 
@@ -33,6 +33,8 @@ It is structured as follows:
 ## Education Scenario
 <Each competence is accompanied by secondary education scenarios that illustrate how learners can develop the respective competence in the classroom. This is only example and not mandatory for your output>
 ```
+In addition you have the full OECD AI Litrecay doc in case you will need the understand the context or "the big picture" for any decision that you need to take.
+
 
 | Component | What it represents | How you use it |
 | :---- | :---- | :---- |
@@ -114,10 +116,10 @@ If any framework component is not covered by at least one learning objective, yo
 
 For **every learning objective**, offer two suggestions for an assessment, one task is more classic and the other is more innovative that engages the student or even provides a product at the end, and produce a table:
 
-| Learning Objective ID | Assessment Type | Assessment Title | Full Description | Fit Score (1-5) | Rationale | 
-| :---- | :---- | :---- | :---- | :---- |  :---- |
-| LO-1 | Classic | Multiple choice questions |  5 multiple-choice questions that test whether the learner has acquired the knowledge and understood it | 4 | The LO is more Knowledge base objective adn we want to know if the learner remember the topics |
-| LO-2 | Hands On Task | Image creation by Promet | The learner must create an image for a birthday greeting card based on a prompt that he will generate himself, according to a number of characteristics that will be given to him that must be present in the image. | 5 | The task tests whether the learner has acquired the ability to meet the learning objective of creating an accurate image format using various parameters that affect the design of an image. |
+| Learning Objective ID | Assessment Type | Assessment Title | Full Description | Time to dedicate (mins) | Fit Score (1-5) | Rationale | 
+| :---- | :---- | :---- | :---- | :---- |  :---- | :---- |
+| LO-1 | Classic | Multiple choice questions |  5 multiple-choice questions that test whether the learner has acquired the knowledge and understood it | 10-15 | 4 | The LO is more Knowledge base objective adn we want to know if the learner remember the topics |
+| LO-2 | Hands On Task | Image creation by Promet | The learner must create an image for a birthday greeting card based on a prompt that he will generate himself, according to a number of characteristics that will be given to him that must be present in the image. | 20-30 | 5 | The task tests whether the learner has acquired the ability to meet the learning objective of creating an accurate image format using various parameters that affect the design of an image. |
 
 ---
 
@@ -133,6 +135,9 @@ For **every learning objective**, offer two suggestions for an assessment, one t
      
 5. **Attitudes are not afterthoughts.** Attitude components (A codes) must be actively designed for, not just passively tagged. If a framework includes "Curious," your learning objective must create genuine conditions for curiosity — open-ended exploration, surprising results, "what if" scenarios etc.
 
+6. **The big picture is importent.** The given competence is one of the 22 compentences defined in the OECD AI Litercay doc. You have the full OECD AI Litercay doc in case you will need the understand the context or "the big picture" for any decision that you need to take.
+
+7. ** Learning and developing the competency will be done in a digital learning environment where the student will learn independently and in a personalized manner. Therefore, in every decision about the breakdown of the competency, the scope of knowledge, the acquisition of skills, the type of assessment tasks, time estimates, etc., this must be taken into consideration.
 ---
 
 ## **4\. BEGIN**
@@ -143,34 +148,34 @@ You have received:
     
 - **Competence Framework**:
 
-
   # Competence Domain
-  Designing AI - Designing AI empowers learners to understand AI’s social and ethical impacts and how AI works by shaping how AI systems function. Through hands-on exploration in an education context, students examine how data, design choices, and model behavior influence the fairness, usefulness, and impact of AI systems. The goal is not to develop commercial products or put them into service, but to build the confidence and capacity to shape AI for human good by understanding the principles underpinning the design and behavior of AI from an early age.
+  Engaging with AI: Engaging with AI in daily life involves using AI as a tool to access new content, information, or recommendations. These situations require learners to first recognize AI’s presence, then evaluate the accuracy and relevance of AI outputs. Learners must develop a fundamental understanding of AI’s technical foundations in order to critically analyze its capabilities and limitations.
 
   # Competence
-  Compare the capabilities and limitations of AI systems that follow algorithms created by humans with those that make predictions based on data.  
+  Recognize AI’s role and influence in different contexts.
     
-  Learners examine the difference between systems that follow fixed rules (or manually programmed logic) and machine learning models to understand the value of machine learning and determine when each approach is most useful or appropriate.
+  Learners identify the presence of AI in everyday tools and systems and consider its purpose in various situations, such as content recommendations or adaptive learning. They reflect on how AI influences their choices, learning, and perceptions.
 
 
   ## **Knowledge**
 
-  - K1.2: Machines “learn” by inferring how to generate outputs such as predictions, content, and recommendations that influence physical or virtual environments, in response to information from the input they receive. They do so with varying levels of autonomy and adaptiveness after deployment.  
-  - K1.4: AI systems operate differently depending on their purpose, whether to create, predict, recommend, or respond.
+  - K1.4: AI systems operate differently depending on their purpose, whether to create, predict,recommend, or respond.
+  - K5.1: AI plays an increasingly prevalent role in decision-making that impacts humans, from hiring practices to healthcare to criminal justice.
 
 
   ## **Skills**
 
-  - S1: *Computational Thinking* Decompose problems and provide instructions in ways that allow AI systems to effectively contribute to solutions. How do I frame my problem so that AI can help solve it? Computational thinking skills help approach and frame problems in ways that leverage the capabilities of AI and account for its limitations. This involves decomposing, or breaking down complex problems into structured components, and communicating goals and constraints in a manner that AI systems can effectively process (e.g., prompt engineering). By providing use cases, counterexamples, and expected outcomes to AI systems, learners refine their own communication skills, engage with metacognitive strategies, and make progress toward their goals.  
-  - S2: *Problem Solving* Determine when and how to use AI for a task by assessing its capabilities, risks, and ethical implications. How do I choose the right type of tool for the task at hand? Using AI to address a problem begins with thoughtful reflection on the task at hand and includes thorough consideration of whether AI’s capabilities meet the task’s technical and ethical requirements. To do this, learners might test specific AI systems for reliability and potential to replicate harmful bias. Learners problem-solve with AI when they ask themselves how AI systems might add value, where human judgment should come into play, and when to avoid AI use altogether.
+  - S1: *Self and Social Awareness*: Recognize how AI influences personal choices, relationships, and communities, and reflect on its broader societal and environmental impact. How does AI impact me and others? Self and social awareness are vital when interacting with AI. This skill begins with recognizing AI’s presence in daily life and understanding how it influences decisions in both the digital and physical worlds. This extends beyond mere identification and applies to thoughtful consideration of AI’s broader effects on individuals, communities, and the environment. Learners might also engage metacognitively with AI’s effects on their own behaviors, thoughts, and learning processes. By recognizing AI’s influence, learners are better equipped to evaluate AI-generated content and monitor how these technologies influence their thoughts and behaviors over time.
+
 
 
   ## **Attitudes**
 
-  - A1: *Curious* Learners are eager to explore what AI can do today and how it might evolve in the future. They want to understand how AI affects their personal lives and future careers. They consider learning to be an ongoing process and enjoy experimenting, believing that meaningful discoveries happen through exploration.
+  - A1: *Curious*: Learners are eager to explore what AI can do today and how it might evolve in the future. They want to understand how AI affects their personal lives and future careers. They consider learning to be an ongoing process and enjoy experimenting, believing that meaningful discoveries happen through exploration.
+  - A2: *Responsible*: Learners think carefully about how they use AI and are accountable of their choices. They consider both the intended and the potential unintended effects of their actions, and are committed to preventing harm to others. They believe everyone has the right to understand how AI affects them and to make informed decisions about its use.
 
   ## **Education Scenario**
-  Program a simple chatbot using conditional logic (e.g., to help people select a book), and compare its capabilities to those of a machine learning–based system handling the same task.
+  List familiar digital interactions (e.g., using a web camera, video recommendations) and discuss if and how each uses AI. another option Explore how an online math platform uses real-time data to present content at different levels of difficulty.
 
 \=====
 
