@@ -152,30 +152,29 @@ You have received:
   Engaging with AI: Engaging with AI in daily life involves using AI as a tool to access new content, information, or recommendations. These situations require learners to first recognize AI’s presence, then evaluate the accuracy and relevance of AI outputs. Learners must develop a fundamental understanding of AI’s technical foundations in order to critically analyze its capabilities and limitations.
 
   # Competence
-  Recognize AI’s role and influence in different contexts.
+  Evaluate whether AI outputs should be accepted, revised, or rejected.
     
-  Learners identify the presence of AI in everyday tools and systems and consider its purpose in various situations, such as content recommendations or adaptive learning. They reflect on how AI influences their choices, learning, and perceptions.
+  Learners critically assess the accuracy and fairness of AI-generated content, recognizing that AI can generate misinformation or biased outputs. They decide whether to trust, modify, or override AI outputs by considering their potential impact on themselves and others.
 
 
   ## **Knowledge**
 
-  - K1.4: AI systems operate differently depending on their purpose, whether to create, predict,recommend, or respond.
-  - K5.1: AI plays an increasingly prevalent role in decision-making that impacts humans, from hiring practices to healthcare to criminal justice.
+  - K4.1: AI excels at pattern recognition and automation but lacks emotions, ethical reasoning context, and originality.
+  - K4.3: The capability of generative AI, particularly large language models (LLMs), to generate human-like content can make it difficult to distinguish fact from fabrication, increasing the potential to generate misinformation, deepfakes, or manipulative materials.
 
 
   ## **Skills**
 
-  - S1: *Self and Social Awareness*: Recognize how AI influences personal choices, relationships, and communities, and reflect on its broader societal and environmental impact. How does AI impact me and others? Self and social awareness are vital when interacting with AI. This skill begins with recognizing AI’s presence in daily life and understanding how it influences decisions in both the digital and physical worlds. This extends beyond mere identification and applies to thoughtful consideration of AI’s broader effects on individuals, communities, and the environment. Learners might also engage metacognitively with AI’s effects on their own behaviors, thoughts, and learning processes. By recognizing AI’s influence, learners are better equipped to evaluate AI-generated content and monitor how these technologies influence their thoughts and behaviors over time.
+  - S1: *Critical Thinking:*: Evaluate AI-generated content for accuracy, fairness, and bias to make informed and ethical decisions. Practicing critical thinking in an AI context involves verifying whether the information provided by an AI system is accurate, relevant, and fair. Because AI systems can generate convincing but incorrect or biased content, learners must actively work to identify potential misinformation and weigh outputs with other sources of information. These actions result in a greater awareness of AI’s impact on the broader information system. This process uncovers hidden biases or gaps and ensures AI outputs support ethical decision-making. By developing these skills, learners exercise media literacy, digital literacy, and digital citizenship, while becoming more discerning users of AI.
 
 
 
   ## **Attitudes**
 
-  - A1: *Curious*: Learners are eager to explore what AI can do today and how it might evolve in the future. They want to understand how AI affects their personal lives and future careers. They consider learning to be an ongoing process and enjoy experimenting, believing that meaningful discoveries happen through exploration.
-  - A2: *Responsible*: Learners think carefully about how they use AI and are accountable of their choices. They consider both the intended and the potential unintended effects of their actions, and are committed to preventing harm to others. They believe everyone has the right to understand how AI affects them and to make informed decisions about its use.
+ - A1: *Responsible*: Learners think carefully about how they use AI and are accountable of their choices. They consider both the intended and the potential unintended effects of their actions, and are committed to preventing harm to others. They believe everyone has the right to understand how AI affects them and to make informed decisions about its use.
 
   ## **Education Scenario**
-  List familiar digital interactions (e.g., using a web camera, video recommendations) and discuss if and how each uses AI. another option Explore how an online math platform uses real-time data to present content at different levels of difficulty.
+  Compare an AI tool’s step-by-step math solution to a learner’s explanation to determine if the AI’s process aligns with techniques that students have already learned. another option Prompt a language model with questions about historical events and evaluate the accuracy and bias of its responses by cross-referencing with reliable sources.
 
 \=====
 
