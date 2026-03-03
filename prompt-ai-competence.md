@@ -152,19 +152,24 @@ You have received:
   Engaging with AI: Engaging with AI in daily life involves using AI as a tool to access new content, information, or recommendations. These situations require learners to first recognize AI’s presence, then evaluate the  accuracy and relevance of AI outputs. Learners must develop a fundamental understanding of AI’s technical foundations in order to critically analyze its capabilities and limitations.
 
   # Competence
-  Describe how AI systems consume energy and natural resources.
+  Analyze how well the use of an AI system aligns with ethical principles and human values.
     
-  LLearners explore the environmental impact of AI, including its energy and data infrastructure, and consider how responsible design and use can support sustainability.
+  Learners assess whether using AI in a given situation, such as surveillance cameras in public spaces or moderating online content, supports values such as fairness, transparency, and privacy. They reflect on whether its use is appropriate, beneficial, or potentially harmful.
 
 
   ## **Knowledge**
 
-  - K4.2: AI requires vast amounts of computing power and data, which consumes energy, thus demanding limited natural resources and increasing carbon emissions. AI’s long-term sustainability impact, both positive and negative, largely depends on how it is implemented and utilized.
-  
+  - K1.4: AI systems operate differently depending on their purpose, whether to create, predict, recommend, or respond.
+  - K3.3: While AI can support analysis and prediction, humans must be responsible for decisions that reflect human judgment and ethical considerations
+  - K5.4: Ethical AI design encompasses fairness, transparency, explainability, accountability, respect for privacy, and legal compliance.
+ 
 
   ## **Skills**
 
   - S1: *Self and Social Awareness:* Recognize how Al influences personal choices, relationships, and communities, and reflect on its broader societal and environmental impact. Self and social awareness are vital when interacting with Al. This skill begins with recognizing Al's presence in daily life and understanding how it influences decisions in both the digital and physical worlds. This extends beyond mere identification and applies to thoughtful consideration of Al's broader effects on individuals, communities, and the environment. Learners might also engage metacognitively with Al's effects on their own behaviors, thoughts, and learning processes. By recognizing Al's influence, learners are better equipped to evaluate Al-generated content and monitor how these technologies influence their thoughts and behaviors over time.
+  - S2: *Critical Thinking:* Evaluate AI-generated content for accuracy, fairness, and bias to make informed and ethical decisions. Practicing critical thinking in an AI context involves verifying whether the information provided by an AI system is accurate, relevant, and fair. Because AI systems can generate convincing but incorrect or biased content, learners must actively work to identify potential misinformation and weigh outputs with other sources of information. These actions result in a greater awareness of AI’s impact on the broader information system. This process uncovers hidden biases or gaps and ensures AI outputs support ethical decision-making. By developing these skills, learners exercise media literacy, digital literacy, and digital citizenship, while becoming more discerning users of AI.
+  - S3: *Problem Solving:* Determine when and how to use AI for a task by assessing its capabilities, risks, and ethical implications. Using AI to address a problem begins with thoughtful reflection on the task at hand and includes thorough consideration of whether AI’s capabilities meet the task’s technical and ethical requirements. To do this, learners might test specific AI systems for reliability and potential to replicate harmful bias. Learners problem-solve with AI when they ask themselves how AI systems might add value, where human judgment should come into play, and when to avoid AI use altogether.
+
  
    ## **Attitudes**
 
@@ -172,7 +177,7 @@ You have received:
 
 
   ## **Education Scenario**
-  Create an infographic illustrating AI’s environmental impacts, including the electricity it consumes, the devices it operates on, and the materials required to manufacture those devices. another option Compare AI’s environmental costs with efforts to reduce them, then debate whether using AI in specific scenarios is environmentally responsible.
+  Evaluate if AI is used kindly, fairly, and respectfully in multiple scenarios, such as editing or sharing someone’s photo without permission. another option Use an AI writing assistant to revise a personal narrative, then reflect on whether its suggestions supported authentic voice or changed the story undesirably.
 
 \=====
 
